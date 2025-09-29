@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.nc": "c",
+        "*.nh": "c",
+        "*.asmn": "nasm"
+    },
+    "material-icon-theme.files.associations": {
+        "*.asmn": "assembly",
+        "*.nc": "c",
+        "*.nh": "header",
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "nasm.validate": false,
+    "nasm.checkOnType": false
+}

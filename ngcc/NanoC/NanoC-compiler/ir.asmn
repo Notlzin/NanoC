@@ -1,0 +1,17 @@
+; ir.asmn... printed by the genASMN.nc file ;
+
+section .nanotext
+GLOBAL main
+
+main:
+    main:
+    MOV R0, <int>          ; <int>
+    PUSH R0
+    MOV R0, <int>          ; <int>
+    PUSH R0
+    MOV R0, <int>          ; <int>
+    POP R1
+    MUL R0, <int>         ; <int,int -> int>
+    POP R1
+    ADD R0, <int>         ; <int,int -> int>
+    RET

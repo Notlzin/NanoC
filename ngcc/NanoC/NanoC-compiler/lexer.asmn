@@ -1,0 +1,49 @@
+; assembly brother!!!! ;
+
+SECTION .nanodata:
+    MEM_Buffer  db 448      ; VGA super-buffer
+    MEM_pos     db 0
+    MEM_Token   db 0
+
+SECTION .nanotext:
+    GLOBAL lexer_main
+
+lexer_main:
+    MOV R0, MEM_pos         ; load current position
+    CMP R0, MEM_Token       ; compare with token limit
+    JGE .eof                ; if >=, go to EOF
+
+.scan_char:
+    LODSB                   ; loads next char in AL
+    CMP AL, 0x20            ; spaces?
+    JE .skip
+    CMP AL, 0x0A            ; newline?
+    JE .skip
+
+    ; check type
+    CALL isLetter
+    CALL isDigit
+    CALL isSymbol
+
+    JMP .scan_char
+
+.skip:
+    INC R0
+    JMP .scan_char
+
+.eof:
+    MOV AX, TOK_EOF
+    RET
+
+; subroutines
+isLetter:
+    MOV MEM_Token, TOK_IDENTIFIER
+    RET
+
+isDigit:
+    MOV MEM_Token, TOK_NUM
+    RET
+
+isSymbol:
+    MOV MEM_Token, TOK_SYMBOL
+    RET
