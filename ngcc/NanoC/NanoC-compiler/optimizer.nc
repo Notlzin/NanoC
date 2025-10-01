@@ -1,4 +1,5 @@
 \\ optimizer.nc: the optimizer of nc
+#include <stdio.h>
 #include "ir.nh";
 
 \\ optimizing AST|IR code

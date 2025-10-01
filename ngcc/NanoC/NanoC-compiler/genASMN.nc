@@ -1,4 +1,5 @@
 \\ generates .asmn file for: ir
+#include <stdio.h>
 
 \\ main logic:
 

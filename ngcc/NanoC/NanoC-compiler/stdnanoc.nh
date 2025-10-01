@@ -2,8 +2,10 @@
 #include "lexer.nc"
 #include "parser.nc"
 #include "ir.nc"
+#include "optimizer.nc"
+#include "codegen.nc"
 
-#ifndef STDNANOC_H
-#define STDNANOC_H
+#ifndef STDNANOC_NH
+#define STDNANOC_NH
 
 #endif

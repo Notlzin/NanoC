@@ -1,0 +1,5 @@
+*.nc linguist-language=C
+*.nh linguist-language=C
+*.asmn linguist-language=Assembly
+*.no linguist-language=Assembly
+*.nexe linguist-language=Assembly   

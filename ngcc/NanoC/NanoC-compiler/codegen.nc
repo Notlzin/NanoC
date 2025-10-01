@@ -1,5 +1,7 @@
 \\ the final step. codegen.nc
 #include "optimizer.nh"
+#include <stdio.h>
+#include <stdlib.h>
 
 \\ emit wrapper (goes into ir.asmn | final asmn)
 void emit(char* instr, int32t arg) {

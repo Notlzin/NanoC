@@ -1,0 +1,23 @@
+# NanoC build outputs (GPT-created) #
+/build/
+build/
+*.no
+*.nexe
+*.asmn
+*.o
+*.obj
+
+# VSCode stuff #
+.vscode/
+*.code-workspace
+
+# OS files #
+.DS_Store
+Thumbs.db
+
+# Temporary / swap files #
+*.swp
+*.tmp
+*.log
+*.bak
+

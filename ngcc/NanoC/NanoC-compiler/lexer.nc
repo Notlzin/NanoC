@@ -1,6 +1,8 @@
 \\ this is how to comment, C but not C LOL
 
 \\ imports
+#include <stdio.h>
+#include <stdlib.h>
 #include "lexer.nh"
 
 void lexer_main(void) {

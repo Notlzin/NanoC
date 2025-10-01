@@ -1,15 +1,20 @@
 {
     "files.associations": {
+        "*.ejs": "html",
         "*.nc": "c",
         "*.nh": "c",
-        "*.asmn": "nasm"
+        "*.asmn": "nasm",
+        "*.nexe": "c",
+        "stdio.h": "c"
     },
     "material-icon-theme.files.associations": {
         "*.asmn": "assembly",
         "*.nc": "c",
         "*.nh": "header",
+        "*.nexe": "exe"
     },
     "C_Cpp.errorSquiggles": "disabled",
     "nasm.validate": false,
-    "nasm.checkOnType": false
+    "nasm.checkOnType": false,
+    "powershell.scriptAnalysis.settingsPath": "${workspaceFolder}/PSScriptAnalyzerSettings.psd1"
 }
