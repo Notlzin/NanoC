@@ -1,9 +1,0 @@
-#ifndef VM_NH
-#define VM_NH
-
-\\ funcs
-void length(ptr l=alloc(256b), prog);
-void op(void);
-void NanoVM(IRProgram prog);
-
-#endif

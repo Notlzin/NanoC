@@ -1,0 +1,10 @@
+MAGIC: NANO
+VERSION: 1
+ENTRY: main
+PAYLOAD:
+; from ..\build\objects\hello.no
+NOBJ
+.section .nanotext
+; dummy instructions
+.section .nanodata
+; dummy data

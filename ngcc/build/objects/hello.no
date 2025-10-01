@@ -1,0 +1,5 @@
+NOBJ
+.section .nanotext
+; dummy instructions
+.section .nanodata
+; dummy data

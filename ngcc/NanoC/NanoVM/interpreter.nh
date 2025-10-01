@@ -1,9 +1,0 @@
-#ifndef INTERPRETER_NH
-#define INTERPRETER_NH
-
-\\ functions (i guess)
-
-void push(int32t value);
-void RunVM(const char *file_name);
-
-#endif

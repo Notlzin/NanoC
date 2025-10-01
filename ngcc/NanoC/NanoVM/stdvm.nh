@@ -1,9 +1,0 @@
-#include "VM.nc"
-#include "nanovm.nc"
-#include "interpreter.nc"
-
-#ifndef STDVM_NH
-#define STDVM_NH
-\\ same reason why its empty just like stdnanoc.h
-
-#endif

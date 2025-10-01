@@ -1,0 +1,9 @@
+; hello.asmn
+.section .nanotext
+    MOV R0, #1
+    MOV R1, #42
+    CALL print_number
+    HALT
+
+.section .nanodata
+    msg: .string "Hello, Nano!"
