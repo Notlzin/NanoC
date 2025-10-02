@@ -1,0 +1,7 @@
+#include "nanovm.nc" \\ rule of thumb here: if a file has too much functions, you can just include it
+
+#ifndef NANOVM_NH
+#define NANOVM_NH
+\\ same empty thing
+
+#endif

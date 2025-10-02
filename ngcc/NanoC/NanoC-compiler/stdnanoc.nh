@@ -1,0 +1,11 @@
+\\ empty file because it defines everything in the NanoC compiler folder
+#include "lexer.nc"
+#include "parser.nc"
+#include "ir.nc"
+#include "optimizer.nc"
+#include "codegen.nc"
+
+#ifndef STDNANOC_NH
+#define STDNANOC_NH
+
+#endif

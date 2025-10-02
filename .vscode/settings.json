@@ -5,7 +5,8 @@
         "*.nh": "c",
         "*.asmn": "nasm",
         "*.nexe": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "type_traits": "c"
     },
     "material-icon-theme.files.associations": {
         "*.asmn": "assembly",
