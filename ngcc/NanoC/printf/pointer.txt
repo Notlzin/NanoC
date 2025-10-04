@@ -1,0 +1,8 @@
+int32t main() {
+    int32t n = 10;
+    ptr *n =  &n;
+    printf("%p", *n)
+}
+
+result is: 000000D855FFF68C
+i got this from a C file that makes this pointer value

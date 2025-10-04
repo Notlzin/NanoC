@@ -1,4 +1,5 @@
-#include "stdnanoc.nh"
+#include <stdnanoc.nh>
+#include <stdvm.nh>
 
 \\ test subject...
 

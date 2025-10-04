@@ -1,0 +1,6 @@
+#include "core.nc"
+
+#ifndef CORE_NH
+#define CORE_NH
+
+#endif

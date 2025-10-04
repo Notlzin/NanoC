@@ -1,0 +1,6 @@
+#include "printf.nc"
+
+#ifndef PRINTF_NH
+#define PRINTF_NH
+
+#endif
