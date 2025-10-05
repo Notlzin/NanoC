@@ -11,7 +11,7 @@
     "files.trimFinalNewlines": true,
     "workbench.editor.showTabs": "none",
     "editor.lineNumbers": "on",
-    "editor.fontSize": 12,
+    "editor.fontSize": 14,
     "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorStyle": "line-thin",
@@ -30,10 +30,10 @@
      "workbench.colorCustomizations": {
         "editor.background": "#1a1a1e",
 
-        "activityBar.background": "#121215",
-        "activityBar.foreground": "#ffffff",
+        "activityBar.background": "#121214",
+        "activityBar.foreground": "#121215",
         "sideBar.background": "#121214",
-        "terminal.background": "#121214",
+        "terminal.background": "#121215",
         "titleBar.border": "#3b3b3b",
         "titleBar.activeBackground": "#121214",
         "titleBar.inactiveBackground": "#121214",
