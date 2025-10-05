@@ -1,11 +1,12 @@
 # NOTES
 
-this is just for a simulation for NanoC using python and tkinter.
+in this folder, its simulating C MessageBoxA and a custom terminal style stuff.
 
 ## EXAMPLE
 
 here is the example of it below.
 
-## SIMULATION
+## SIMULATION (HBash and MessageBoxA)
 
 ![hbash-gui-simulation](HBashGUI.png)
+![msgboxa-gui-simulation](MessageBoxA.png)

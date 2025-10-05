@@ -1,1 +1,3 @@
-note: unfinished... probably going to put stdnanoc.nh in here or something else, if you're contributing here, you can recreate your own standard libraries from C or overall make your own ones!
+note: unfinished...
+probably going to put stdnanoc.nh in here or something else, if you're contributing here, you can recreate your own standard libraries from C or overall make your
+own ones!

@@ -1,0 +1,12 @@
+\\ the stdlib part... oh boy...
+
+#ifndef STDLIB_NH
+#define STDLIB_NH
+#define nano.sizeof(ptr *mem);
+
+\\ core functions
+void alloc(ptr *mem_addr, int32t mem);
+
+\\ just these for now...
+
+#endif
