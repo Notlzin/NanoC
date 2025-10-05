@@ -5,7 +5,7 @@
 #include "ir.nh"
 #include "optimizer.nh"
 #include "codegen.nh"
-#include "stdvm.nh"
+#include <stdvm.nh>
 
 int main(int argc, char** argv) {
     if (argc < 2) {

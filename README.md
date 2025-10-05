@@ -1,6 +1,6 @@
 # NanoC
 
-C but smaller, and un-runnable
+C but smaller, and un-runnable, this is just a **passion project** so dont take it too seriously
 
 ## assembler-test
 
@@ -17,3 +17,7 @@ C but smaller, and un-runnable
 ## memory adress test
 
 ![Memory-Addr demo](Address.png)
+
+## nanodll.dll process
+
+![NanoDLL-process demo](NanoDLLProcess.png)

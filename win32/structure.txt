@@ -1,0 +1,33 @@
+yes i know its from chatGPT, but this is not production ready repo (this is just to give a representation on how Win16 works) and also outdated. too lazy to update
+win32/
+├─ include/
+│  ├─ windows.h
+│  ├─ winuser.h
+│  └─ kernel32.h
+├─ lib/
+│  ├─ kernel32.nlib
+│  └─ user32.nlib
+├─ src/
+|  ├─ kernels/
+|  |  ├─ kernel32_a.nc
+|  |  ├─ kernel32_b.nc
+|  |  └─ kernel32_c.nc
+│  ├─ runner/
+│  │  ├─ main.nc
+│  │  └─ loader.nc
+|  |
+│  ├─ stubs/
+│  │  ├─ user32stub.nc
+│  │  └─ kernel64_stub.nc
+│  └─ optim/
+│     ├─ reroute.nc
+│     └─ merge.nc
+├─ tools/
+│  ├─ ngcc-driver
+│  └─ packer.nc
+├─ examples/
+│  └─ sample_win_program/
+│     ├─ main.nc
+│     └─ build.sh
+└─ docs/
+    └─ README-WIN16.md

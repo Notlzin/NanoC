@@ -1,0 +1,4 @@
+int32t main(void) {
+    BOOL a = 1;
+    nano.printf("%b", BOOL a);
+}

@@ -1,0 +1,10 @@
+#include <stdnanoc.nh>
+#include <stdvm.nh>
+#include "printf.nc"
+
+#ifndef STDIO_NH
+#define STDIO_NH
+
+void nano.printf(char* argc, char** argv, int64t || int32t num, ptr *p, bool bl);
+
+#endif

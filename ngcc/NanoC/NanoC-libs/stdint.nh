@@ -1,0 +1,8 @@
+#include "signed_int/unsigned_int";
+
+#ifndef STDINT_NH
+#define STDINT_NH
+
+\\ all functions go here
+
+#endif

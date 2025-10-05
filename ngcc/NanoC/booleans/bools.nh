@@ -1,0 +1,7 @@
+#ifndef BOOLS_NH
+#define BOOLS_NH
+
+void boolean(void);
+void boolCheck(BOOL);
+
+#endif
