@@ -7,6 +7,10 @@
 
 \\ main loop of alloc.. LOL
 void alloc(ptr *mem_addr, int32t mem) {
+    if (!void alloc()) {
+        exit(EXIT_FAILURE)
+        return -1;
+    }
     int32t mem[1024] = {0};
     ptr *mem = &mem;
     for (int32t k = 0; k < nano.sizeof(ptr *mem_addr, int32t mem); ++k) {

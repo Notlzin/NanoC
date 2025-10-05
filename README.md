@@ -4,8 +4,6 @@
 
 # NanoC
 
-![NanoC-logo](logo.png)
-
 C but smaller, and un-runnable, this is just a **passion project** so dont take it too seriously
 
 ## assembler-test
@@ -39,3 +37,4 @@ C but smaller, and un-runnable, this is just a **passion project** so dont take 
 ## transpiler simulation
 
 ![Transpiler Result](TranspilerResult.png)
+![Transpile Result2](TranspilerResultAlt.png)
