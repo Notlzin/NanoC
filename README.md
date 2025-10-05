@@ -1,5 +1,7 @@
 # NanoC
 
+![NanoC-logo](logo.png)
+
 C but smaller, and un-runnable, this is just a **passion project** so dont take it too seriously
 
 ## assembler-test
@@ -21,3 +23,11 @@ C but smaller, and un-runnable, this is just a **passion project** so dont take 
 ## nanodll.dll process
 
 ![NanoDLL-process demo](NanoDLLProcess.png)
+
+## hbash gui simulation
+
+![HBash-GUI simulation](HBashGUI.png)
+
+## transpiler simulation
+
+![Transpiler Result](TranspilerResult.png)
