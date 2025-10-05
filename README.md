@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="NanoC logo" width="300">
+</p>
+
 # NanoC
 
 ![NanoC-logo](logo.png)
