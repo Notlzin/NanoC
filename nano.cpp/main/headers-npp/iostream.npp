@@ -1,0 +1,7 @@
+#include "iostream.nh"
+#define namespace::std
+
+void cout(char argc, char* argv) {
+    \\ will be filled later on
+    return 0;
+};

@@ -1,0 +1,9 @@
+#ifndef _IOSTREAM_NH
+#define _IOSTREAM_NH
+
+\\ core functions... again
+void cout(char argc, char* argv);
+void cin(char* argc, char** argv);
+void endl(char argc_end, char* argv_end);
+
+#endif

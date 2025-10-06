@@ -1,7 +1,0 @@
-; final place... codegen.asmn.
-
-section .nanotext
-GLOBAL main
-
-main:
-    RET R0  ; yes... only this LOL

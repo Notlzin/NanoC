@@ -48,6 +48,7 @@
         "*.ejs": "html",
         "*.nc": "c",
         "*.nh": "c",
+        "*.npp": "cpp",
         "*.asmn": "nasm",
         "*.nexe": "exe",
         "*.no": "assembly",
@@ -58,6 +59,7 @@
         "*.asmn": "assembly",
         "*.nc": "c",
         "*.nh": "header",
+        "*.npp": "cpp",
         "*.no": "exe",
         "*.nexe": "exe"
     },

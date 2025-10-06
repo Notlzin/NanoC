@@ -1,0 +1,8 @@
+#ifndef _NAMESPACE_NH
+#define _NAMESPACE_NH
+
+\\ namespace part
+#define namespace
+#define std
+
+#endif

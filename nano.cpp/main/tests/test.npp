@@ -1,0 +1,7 @@
+#include <iostream.nh>
+#define namespace::std
+
+int32t main(void) {
+    cout << "hello!" << endl;
+    return 0;
+}

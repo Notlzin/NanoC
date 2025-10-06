@@ -1,9 +1,0 @@
-\\ intermediate representation header file
-
-#ifndef IR_NH
-#define IR_NH
-
-\\ logic
-void genIR(AST ast);
-
-#endif

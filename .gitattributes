@@ -1,5 +1,6 @@
 *.nc linguist-language=C
 *.nh linguist-language=C
+*.npp linguist-language=CPP
 *.asmn linguist-language=Assembly
 *.no linguist-language=Assembly
-*.nexe linguist-language=Assembly   
+*.nexe linguist-language=Assembly

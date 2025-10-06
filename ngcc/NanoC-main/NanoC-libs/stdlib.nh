@@ -4,8 +4,9 @@
 #define STDLIB_NH
 #define nano.sizeof(ptr *mem);
 
-\\ core functions
-void alloc(ptr *mem_addr, int32t mem);
+\\ core functions v2
+#include "stdlib.nc"
+\\ yeah just that LOL
 
 \\ just these for now...
 

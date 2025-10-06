@@ -1,0 +1,12 @@
+\\ intermediate representation program 
+
+FUNC main
+    ALLOC x
+    LOAD_CONST x
+    LOAD CONST Y
+    LOAD CONST Z
+    <OP>
+    <OP>
+    STORE x
+    RET
+ENDFUNC

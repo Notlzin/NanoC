@@ -1,0 +1,1 @@
+notes for this: this part isnt finished yet and is highly experimental, but will still be using NanoC's main parts.

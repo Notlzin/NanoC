@@ -1,0 +1,9 @@
+\\ the nanoheader of optimizer
+
+#ifndef OPTIMIZER_NH
+#define OPTIMIZER_NH
+
+\\ main logic
+void AST optimize(AST ast);
+
+#endif
