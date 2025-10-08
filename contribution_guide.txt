@@ -1,0 +1,24 @@
+this is the contribution guide text file to guide you for how to contribute to NanoC project.
+
+1. how to contribute (read this first)
+    to contribute on NanoC, is to fork it and then submit a pull request (PR). to contribute you need these:
+    1. a github account (sign up first before contributing)
+    2. fork project repo (there should be a fork button in the root repo project you're in)
+    3. submit pull request and then... done: contribution tutorial finished. (but wait... theres more)
+    4. make sure you have gcc and g++ (GNU C compiler and GNU C++ compiler) installed via MinGW-w64, usually choose the latest release. (not the pre-release)
+    5. (optional): make sure you have code runner (or C/C++ code runner) extension installed on vscode.
+
+2. code contribution
+    now on how to contribute your own code in NanoC is that any code has to be followed as the owner's repository, any existing code that is slightly out of touch
+    will be optimized to look like the current code into the codebase.
+
+3. bugs | issue contribution
+    now this part is... kind of useless, because the point is that: NanoC is basically C but unrunnable (mentioned in the README.md), but some parts of the code has
+    fake compiling stuff and python transpiler files, so any bugs in those code, you can do a pull request or make a github issue on them, or contribute it right away
+    and fix it yourself (or contributors including myself will fix it), make sure the bug report (or issue report) has to be somewhat readable and understandable
+    incase anything that is buggy happened
+
+4. documentation contribution
+    now here, NanoC has a ton of useless documentations, but its for the best, you can contribute to these documentations to help make NanoC docs more readable and
+    more understandable to any newcomers that wants to be a future contributor or someone that is interested into this project. you can make it yourself or just
+    optimize existing docs to be more readable to newbies.
