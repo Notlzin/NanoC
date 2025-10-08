@@ -3,7 +3,7 @@
     MOV R0, #1
     MOV R1, #42
     CALL print_number
-    HALT
+    HLT
 
 .section .nanodata
     msg: .string "Hello, Nano!"

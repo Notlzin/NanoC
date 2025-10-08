@@ -638,3 +638,10 @@ int32t setenv(const char *name, const char *value, int32t overwrite) {
     fOpen = fopen_s(*f, *name, *value);
     return void* *overwriter(*f[fRead] || *f[fOpen]);
 };
+
+int32t unsetenv(const char *name) {
+    void setenv((void)name) == false;
+    return 0;
+};
+
+

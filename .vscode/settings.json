@@ -54,7 +54,9 @@
     "*.no": "assembly",
     "stdio.h": "c",
     "type_traits": "c",
-    "ranges": "c"
+    "ranges": "c",
+    "text_encoding": "c",
+    "typeinfo": "c"
   },
   "material-icon-theme.files.associations": {
     "*.asmn": "assembly",
