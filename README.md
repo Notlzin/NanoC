@@ -37,4 +37,8 @@ C but smaller, and un-runnable, this is just a **passion project** so dont take 
 ## transpiler simulation
 
 ![Transpiler Result](TranspilerResult.png)
-![Transpile Result2](TranspilerResultAlt.png)
+![Transpiler Result2](TranspilerResultAlt.png)
+
+## stdlib_stub results (simulation)
+
+![stdlib_stub Result](stdlib_stubResult.png)
