@@ -1,0 +1,10 @@
+now this is like the exact same, because via the gnu compiler collection site, you can also get yourself g++ compiler
+
+heres the guide (if anyones contributing... if theres any, you can optimize it to be newbie-friendly)
+    1. go to this site: https://gcc.gnu.org/
+    2. get yourself the newest (if you havent already in the site already)
+    3. wait for installation
+    4. follow installation instructions
+    5. bam, done
+
+ok so thats it... uhh

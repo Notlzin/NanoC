@@ -1,0 +1,10 @@
+yes i know this seems unnecessary, but for the sake of guidance, i would add this.
+
+now you know that NanoC requires gcc and g++, here i would explain how you download gcc, first step:
+    1. go to this site: https://gcc.gnu.org/
+    2. get the latest version gcc (usually in available on the site)
+    3. wait for installation
+    4. go through installation guide, then you're finished with gcc
+
+thats all for the tutorial lol
+note: you can also get g++ compiler from the site too
