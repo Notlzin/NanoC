@@ -49,7 +49,7 @@
     "*.nc": "c",
     "*.nh": "c",
     "*.npp": "cpp",
-    "*.asmn": "nasm",
+    "*.asmn": "assembly",
     "*.nexe": "exe",
     "*.no": "assembly",
     "stdio.h": "c",
