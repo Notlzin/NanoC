@@ -7,7 +7,7 @@
 #include "codegen.nh"
 #include <stdvm.nh>
 
-int main(int argc, char** argv) {
+int32t main(int32t argc, char** argv) {
     if (argc < 2) {
         nano.printf("Usage: ngcc <file.nc> -o <file.nexe>");
         return 1;

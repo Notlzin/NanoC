@@ -1,0 +1,6 @@
+#ifndef _RAM_TYPEDEF
+#define _RAM_TYPEDEF
+
+typedef enum:Ops {};
+
+#endif

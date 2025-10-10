@@ -52,6 +52,8 @@
     "*.asmn": "assembly",
     "*.nexe": "exe",
     "*.no": "assembly",
+    "*.nhex": "assembly",
+    "*.nbin": "assembly",
     "stdio.h": "c",
     "type_traits": "c",
     "ranges": "c",
@@ -64,6 +66,8 @@
     "*.nh": "header",
     "*.npp": "cpp",
     "*.no": "exe",
+    "*.nhex": "exe",
+    "*.nbin": "exe",
     "*.nexe": "exe"
   },
   "C_Cpp.errorSquiggles": "disabled",
