@@ -28,4 +28,4 @@ filled with stubs, runner folder (empty files LOL), and kernels folder. too lazy
 
 ## conclusion
 
-thats it lol, this might be useless if you tried seeing the folders first before this markdown
+thats it lol, this might be useless if you tried seeing the folders first before this markdown (spoiler alert: it is)
