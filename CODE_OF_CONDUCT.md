@@ -59,4 +59,4 @@ breaking code of conduct will result in 3 things:
 
 if you fork, this rule applies, ANYWHERE.
 
-at the end, NanoC is just hobby project, but with limitations (i can agree that no ones gonna contribute to this LOL)
+at the end, NanoC is just hobby project, but with limitations (i can agree that no ones gonna contribute to this LOL except my alt LOL)
